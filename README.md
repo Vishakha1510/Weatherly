@@ -1,4 +1,4 @@
-# 🌤 Weatherly
+# **🌤 WEATHERLY**
 
 **WEATHERLY** is a feature-rich weather application built using Flutter, designed to provide users with accurate and timely weather information. This app integrates essential features such as API calling, Shared Preferences, and network connectivity checks to enhance the user experience.
 
