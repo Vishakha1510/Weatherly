@@ -115,6 +115,4 @@ This project is licensed under the **MIT License**.
 
 If you like this project, please ⭐️ the repository!
 
----
 
-_“Quality is our Motto.” Shaping **skills** for **scaling** higher...!!!_ ✨
